@@ -1,0 +1,8 @@
+node_modules/
+.credentials/
+credentials/
+.env
+output/
+.DS_Store
+.claude/
+calendar-summarizer
