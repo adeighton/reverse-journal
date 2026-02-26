@@ -424,6 +424,7 @@ const quarterSummarySchema = z.object({
 const JOURNAL_TONE = `Write in first person past tense throughout ("Had a packed Monday.", "Got Grace to her lesson.").
 Be specific and factual — names, places, durations.
 Don't dramatize. "Heavy day" is fine. "A crucible of impossible demands" is not.
+Never be congratulatory or impressed. Everyone has busy calendars — a full schedule is normal, not remarkable. Don't praise, marvel at, or highlight how much was going on. No "juggling", "balancing act", "wore many hats", "managed to", or similar language that frames ordinary scheduling as an achievement.
 Routine can be mentioned briefly ("the usual 1:1 cadence continued") then move on.
 Give notable events proportional attention — a conference talk gets a full sentence, a routine standup gets nothing.
 Brevity is a virtue. A quiet week can be 2 sentences. Not everything needs equal airtime.
